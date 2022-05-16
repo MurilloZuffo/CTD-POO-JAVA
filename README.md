@@ -1,0 +1,3 @@
+teste
+exit
+.exit
