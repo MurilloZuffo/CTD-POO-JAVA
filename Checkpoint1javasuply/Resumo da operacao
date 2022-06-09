@@ -1,0 +1,7 @@
+Criação de um programa de gerenciamento de coletas.
+
+Usando das atividades onde atuo, resolvi criar um cenário onde podemos incluir as varias formas de coleta dentro da empresa.
+
+As coletas acontecem quando temos um retorno de um produto para a empresa, então temos um diagrama que demonstra 1 ocorrencia de coleta, onde podemos ter mais de uma coleta em um endereço mas apenas um endereço por coleta.
+
+para complementar as informações das coletas crie a herança, sendo b2b para clientes juridicos então temos que apresentar cnpj por exemplo, b2c para consumidor final então temos para basear o cpf da pessoa, e o trade que nada mais é do que uma revenda para grandes logistas que como possuem varios CNPJ classificamos por ordem de compra. 
